@@ -1,14 +1,13 @@
 # manager-README
 
-### Working with me
 * Let's get to know each other personally.
+* Put yourself in my shoes. I'll do the same for you.
 * Ask for help and offer to help.
 * Hit me up for feedback and advice.
+* Help me protect your time.
 * Let's inform each other, early and often.
 * If you present a problem, propose a solution.
 * Sometimes we'll have to disagree but move forward.
-* Help me protect your time.
-* Put yourself in my shoes. I'll do the same for you.
 * Let's make each other look good.
 
 ### Links
