@@ -1,4 +1,4 @@
-# manager-README
+# README-manager
 
 * Let's get to know each other personally.
 * Put yourself in my shoes. I'll do the same for you.
