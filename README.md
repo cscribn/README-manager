@@ -9,7 +9,7 @@
 * If you present a problem, propose a solution.
 * Sometimes we'll have to disagree but move forward.
 * Take risks. Clean up what you mess up.
-## My Clifton Strenghts
+## My Clifton Strengths
 * Analytical
   * I search for reasons and causes, and think about all factors.
 * Learner
