@@ -1,6 +1,6 @@
 # README-manager
 ## How To
-* Let's get to know each other personally and have non-work conversations.
+* Let's get to know each other personally. Have non-work conversations.
 * Put yourself in my shoes. I'll do the same for you.
 * Ask for help and offer to help.
 * Hit me up for feedback and advice.
