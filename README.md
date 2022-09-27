@@ -1,4 +1,5 @@
 # README-manager
+
 ## How To
 * Let's get to know each other personally. Have non-work conversations.
 * Put yourself in my shoes. I'll do the same for you.
@@ -9,6 +10,7 @@
 * If you present a problem, propose a solution.
 * Sometimes we'll have to disagree but move forward.
 * Take risks. Clean up what you mess up.
+
 ## My Clifton Strengths
 * Analytical
   * I search for reasons and causes, and think about all factors.
