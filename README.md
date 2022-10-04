@@ -6,7 +6,7 @@
 * Put yourself in my shoes. I'll do the same for you.
 * Ask for help and offer to help.
 * Hit me up for feedback and advice.
-* Help me protect your time.
+* Help me prioritize your time.
 * Let's inform each other, early and often.
 * If you present a problem, propose a solution.
 * Sometimes we'll have to disagree but move forward.
