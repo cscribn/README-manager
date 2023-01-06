@@ -11,6 +11,7 @@
 * If you present a problem, propose a solution.
 * Do what you can, where you are, with what you have.
 * Sometimes we'll have to disagree but move forward.
+* We'll rethink and relearn.
 * Take risks. Clean up what you mess up.
 
 ## My Clifton Strengths
