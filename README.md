@@ -12,7 +12,7 @@
 * Do what you can, where you are, with what you have.
 * Sometimes we'll have to disagree but move forward.
 * I tend to show very little emotion.
-  * If you think I should be nervous but I'm not expressing so, ask me about it.
+  * If you think I should be nervous but I seem calm, ask me about it.
 * We'll rethink and relearn.
 * Take risks. Clean up what you mess up.
 
