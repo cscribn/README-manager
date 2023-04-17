@@ -11,7 +11,7 @@
 * If you present a problem, propose a solution.
 * Do what you can, where you are, with what you have.
 * Sometimes we'll have to disagree but move forward.
-* I tend to show very little emotion (I'm working on this). If your feelings don't match up with my expression, please ask about it so we can get on the same page.
+* I tend to show very little emotion. Please ask if you're unsure about how I'm feeling.
 * We'll rethink and relearn.
 * Take risks. Clean up what you mess up.
 
