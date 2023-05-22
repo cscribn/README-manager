@@ -2,17 +2,24 @@
 
 ## How To
 
-* Let's get to know each other personally. Have non-work conversations.
-* Put yourself in my shoes. I'll do the same for you.
+### Communication
+
 * Ask for help and offer to help.
 * Hit me up for feedback and advice.
-* Help me prioritize your time.
 * Let's inform each other, early and often.
+* Close the loop on everything we open.
 * If you present a problem, propose a solution.
-* Do what you can, where you are, with what you have.
+* I do better with gradual processing than real-time.
+  * I might need to get back to you.
 * Sometimes we'll have to disagree but move forward.
 * I tend to show very little emotion.
-  * If you think I should be nervous but I seem calm, ask me about it.
+  * If you're expecting upset but I seem fine, ask me about it.
+
+### Action
+
+* Put yourself in my shoes. I'll do the same for you.
+* Help me prioritize your time.
+* Do what you can, where you are, with what you have.
 * We'll rethink and relearn.
 * Take risks. Clean up what you mess up.
 
