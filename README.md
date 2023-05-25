@@ -5,7 +5,6 @@
 ### Communication
 
 * Ask for help and offer to help.
-* Hit me up for feedback and advice.
 * Let's inform each other, early and often.
 * Close the loop on everything we open.
 * If you present a problem, propose a solution.
