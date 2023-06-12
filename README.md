@@ -4,7 +4,6 @@
 
 ### Communication
 
-* Ask for help and offer to help.
 * Let's inform each other, early and often.
 * Close the loop on everything we open.
 * If you present a problem, propose a solution.
@@ -19,7 +18,6 @@
 * Put yourself in my shoes. I'll do the same for you.
 * Help me prioritize your time.
 * Do what you can, where you are, with what you have.
-* We'll rethink and relearn.
 * Take risks. Clean up what you mess up.
 
 ## My Clifton Strengths
