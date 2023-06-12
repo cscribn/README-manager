@@ -20,7 +20,7 @@
 * Do what you can, where you are, with what you have.
 * Take risks. Clean up what you mess up.
 
-## My Clifton Strengths
+## My (Clifton) Strengths
 
 * Analytical
   * I search for reasons and causes, and think about all factors.
