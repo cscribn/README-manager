@@ -2,7 +2,7 @@
 
 ## How To
 
-### Communication
+### Communicate
 
 * Let's inform each other, early and often.
 * Close the loop on everything we open.
@@ -13,7 +13,7 @@
 * I tend to show very little emotion.
   * If you're expecting upset but I seem fine, ask me about it.
 
-### Action
+### Take Action
 
 * Put yourself in my shoes. I'll do the same for you.
 * Help me prioritize your time.
