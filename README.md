@@ -7,6 +7,7 @@
 * Let's inform each other, early and often.
 * Close the loop on everything we open.
 * If you present a problem, propose a solution.
+  * Unless it's a must-know/urgent.
 
 ### Take Action
 
