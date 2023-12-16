@@ -1,4 +1,4 @@
-# README-manager
+# README-user-manual
 
 ## How To
 
