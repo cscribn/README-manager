@@ -14,6 +14,7 @@
 * Put yourself in my shoes. I'll do the same for you.
 * Help me prioritize your time.
 * Do what you can, where you are, with what you have.
+* I'd rather that you stay aggressive and sometimes miss dates than being conservative and always hit dates.
 * Take risks. Clean up what you mess up.
 
 ## My Personality
