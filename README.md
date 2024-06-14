@@ -12,8 +12,8 @@
 ### Take Action
 
 * Put yourself in my shoes. I'll do the same for you.
-* Help me prioritize your time.
 * Do what you can, where you are, with what you have.
+* There will be issues that aren't your fault, but are your problem, and we'll face them together.
 * I'd rather that you stay aggressive and sometimes miss dates than being conservative and always hit dates.
 * Take risks. Clean up what you mess up.
 
