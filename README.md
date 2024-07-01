@@ -11,7 +11,7 @@ For both myself and others.
 
 ### Taking Action
 
-* Putting one's self in someone else's shoes.
+* Putting oneself in someone else's shoes.
 * Doing what you can, where you are, with what you have.
 * Helping face issues that aren't one's fault, but are one's problem.
 * Staying aggressive and sometimes missing dates rather than being conservative and always hitting dates.
