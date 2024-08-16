@@ -7,6 +7,7 @@ For both myself and others.
 
 * Informing early and often.
 * Closing the loop on everything that is opened.
+* Keeping a record of each item you work.
 * Proposing a solution when presenting a problem.
 
 ### Taking Action
